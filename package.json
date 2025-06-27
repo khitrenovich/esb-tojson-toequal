@@ -1,0 +1,19 @@
+{
+  "name": "esb-tojson-toequal",
+  "version": "1.0.0",
+  "description": "Reproduce issue with Jest 30 and elastic-builder",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "elastic-builder": "^2.31.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.0.3",
+    "ts-jest": "^29.4.0"
+  }
+}
